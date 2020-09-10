@@ -13,7 +13,7 @@ README!!!!!
 Hi this company was started by three young kids. So far we have made $57 in less then 5 besiness 
 Please click the link up on top to go to the actual site...
 ## Our Products
-We have affordable products for everyone.
+We have affordable products for everyone. We have many products from 1-3 dollars.
 
 > This is a blockquote following a header.
 >
