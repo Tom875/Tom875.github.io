@@ -8,12 +8,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+README!!!!!
 # Header 1	
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Hi this company was started by three young kids. So far we have made $57 in less then 5 besiness 
+Please click the link up on top to go to the actual site...
 ## Header 2
 
 > This is a blockquote following a header.
