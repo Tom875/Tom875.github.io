@@ -12,7 +12,8 @@ README!!!!!
 # About
 Hi this company was started by three young kids. So far we have made $57 in less then 5 besiness 
 Please click the link up on top to go to the actual site...
-## Header 2
+## Our Products
+We have affordable products for everyone.
 
 > This is a blockquote following a header.
 >
