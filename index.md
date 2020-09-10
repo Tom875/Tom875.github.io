@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 README!!!!!
-# Header 1	
+About,	
 Hi this company was started by three young kids. So far we have made $57 in less then 5 besiness 
 Please click the link up on top to go to the actual site...
 ## Header 2
