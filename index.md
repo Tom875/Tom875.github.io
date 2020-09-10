@@ -57,7 +57,7 @@ We have affordable products for everyone. We have many products from 1-3 dollars
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](./img/the_yarnball.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
